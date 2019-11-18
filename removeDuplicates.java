@@ -13,3 +13,6 @@ class Solution {
         return i + 1;
     }
 }
+
+// Here is the method to returing an Int of how many numbers are in the array that are not duplicates.
+// I will add to the file on returning the array without the duplicates
